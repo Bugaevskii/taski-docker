@@ -11,7 +11,6 @@ ALLOWED_HOSTS = [
     'localhost', '127.0.0.1', '51.250.105.163', 'bugi-cats.sytes.net'
 ]
 
-
 # Application definition
 
 INSTALLED_APPS = [
